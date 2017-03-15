@@ -1,4 +1,4 @@
-# MY FIRST WEBPAGE
+# My first full website project
 
 #### Epicodus Day 2 - last exercise, 03/14/17
 
